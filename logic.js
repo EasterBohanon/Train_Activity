@@ -8,3 +8,4 @@ var config = {
   };
   firebase.initializeApp(config);
   
+  var databse = firebase.databse();
