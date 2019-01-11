@@ -5,11 +5,13 @@ body {
 
 /* Header */
 #jumbotron {
-    background: blue;
+    background-image: url("images/trainBG1.jpg");
+    background-size: 100%;
 }
 #MainHeader, #headerparagraph {
     color: white;
     text-align: center;
+    font-weight: bold;
 }
 /* Add Train */
 
